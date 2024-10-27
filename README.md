@@ -23,3 +23,6 @@ Source: Schapiro, Denis, Hartland W Jackson, Swetha Raghuraman, Jana R Fischer, 
 ![](https://github.com/RamyGadalla/R_spatial_IMC_TissueCancer/blob/main/png/rmd.png-09.png)
 ![](https://github.com/RamyGadalla/R_spatial_IMC_TissueCancer/blob/main/png/rmd.png-10.png)
 ![](https://github.com/RamyGadalla/R_spatial_IMC_TissueCancer/blob/main/png/rmd.png-11.png)
+![](https://github.com/RamyGadalla/R_spatial_IMC_TissueCancer/blob/main/png/rmd.png-12.png)
+![](https://github.com/RamyGadalla/R_spatial_IMC_TissueCancer/blob/main/png/rmd.png-13.png)
+![](https://github.com/RamyGadalla/R_spatial_IMC_TissueCancer/blob/main/png/rmd.png-14.png)
