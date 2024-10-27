@@ -7,7 +7,7 @@ output: pdf_document
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
-knitr::opts_knit$set(root.dir = "/Volumes/GoogleDrive/My Drive/Classes/Electives/SIE512/Final_project"
+knitr::opts_knit$set(root.dir = ""
               )
 ```
 
@@ -45,7 +45,7 @@ library(spicyR)
 
 Importing the data into R environment
 ```{r}
-spe <- readRDS('/Volumes/GoogleDrive/My Drive/spatial/RDS/spe_celltypeAdded.rds')
+spe <- readRDS('./spatial/RDS/spe_celltypeAdded.rd')
 spe
 ```
 
