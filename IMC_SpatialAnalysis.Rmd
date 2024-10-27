@@ -80,8 +80,8 @@ Here is a sample of the images that generated this data.
 First, we need to read in two files, the images and the mask (this file is what differentiate between cells and it nucleus, through a process called image segmentation)
 
 ```{r  warning=FALSE, message=FALSE, fig.show="hold", fig.align='left'}
-images <- readRDS("/Volumes/GoogleDrive/My Drive/spatial/RDS/comp_image_steinbock.rds")
-masks <- readRDS("/Volumes/GoogleDrive/My Drive/spatial/RDS/masks.rds")
+images <- readRDS("./spatial/RDS/comp_image_steinbock.rds")
+masks <- readRDS("./spatial/RDS/masks.rds")
 
 
 plotCells(masks['Patient2_s0_a2_ac_ilastik_s2_Probabilities_mask'],
